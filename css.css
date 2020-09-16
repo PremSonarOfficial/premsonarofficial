@@ -1,0 +1,46 @@
+body{
+	background:#a8dadc;
+}
+h1{
+	font: 3em "Times", serif;
+	color:#f1faee;
+	background-color: #1d3557; 
+}
+p{
+	font: 1em "Times", serif;
+	color: #1d3557
+}
+img{
+	border:3px dashed #1d3557;
+}
+
+h2{
+   color: #f1faee	
+}
+li{
+	color: #f1faee
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+}
+
+a:link {
+  color: #ff6b6b;
+}
+
+a:visited {
+  color: #e63946;
+}
+
+a:hover {
+       
+  background: #1d3557;
+  color: #1d3557
+}
+
+a:active {
+  background: #ff6b6b;
+  color: #ff6b6b;
+}
